@@ -1,0 +1,12 @@
+name: Passing-Viz-WWC-2023
+title: Passing-Viz-WWC-2023
+username: cl-performance
+account: cl-performance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10791606
+bundleId: 8082109
+url: https://cl-performance.shinyapps.io/Passing-Viz-WWC-2023/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

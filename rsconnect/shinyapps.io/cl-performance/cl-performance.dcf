@@ -1,0 +1,12 @@
+name: cl-performance
+title: cl-performance
+username: cl-performance
+account: cl-performance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10838694
+bundleId: 8075501
+url: https://cl-performance.shinyapps.io/cl-performance/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
